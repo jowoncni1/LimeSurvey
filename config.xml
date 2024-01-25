@@ -14,7 +14,7 @@
         <description><![CDATA[Send SMS via seven]]></description>
     </metadata>
     <compatibility>
-        <version>5.0</version>
+        <version>6.0</version>
     </compatibility>
     <updaters>
         <updater disabled="disabled">
